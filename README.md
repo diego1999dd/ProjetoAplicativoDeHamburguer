@@ -1,7 +1,7 @@
-###evento-nlw-experts
+Evento-nlw-experts
 
-###Tecnologias Utilizadas
-###-TypeScript -JavaScript - ReactNative
+Tecnologias Utilizadas
+-TypeScript -JavaScript - ReactNative
 
 In the project directory, you can run:
 
